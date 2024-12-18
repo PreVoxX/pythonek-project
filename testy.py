@@ -12,3 +12,4 @@ def suma_rekurencyjna(n):
         return 0
     return n+suma_rekurencyjna(n-1)
 print(suma_rekurencyjna(n))
+
